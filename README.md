@@ -1,6 +1,9 @@
 # find-duplicate
 Script ruby for find the duplicates file 
 
+## Requirements
+* Ruby 2.0 or higher
+
 ## Usage
 ```bash
 ruby find-duplicate.rb [option] [path]
